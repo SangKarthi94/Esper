@@ -10,9 +10,6 @@ import com.sang.esper.R
 import com.sang.esper.databinding.FragmentMobileDetailBinding
 
 
-/**
- * A simple [Fragment] subclass as the second destination in the navigation.
- */
 class MobileDetailFragment : Fragment() {
 
     private var _binding: FragmentMobileDetailBinding? = null
